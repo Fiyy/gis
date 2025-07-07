@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_shared_image_gallery_blocks",
+  "info": {
+    "displayName": "Image Gallery Block",
+    "icon": "dashboard"
+  },
+  "options": {},
+  "attributes": {
+    "Images": {
+      "type": "component",
+      "component": "shared.media",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Strapi build files
+backend/build/
+backend/.strapi/
+backend/database/data.db
+backend/database/data.db-shm
+backend/database/data.db-wal
+
+# Next.js build files
+startup-nextjs/.next/
+startup-nextjs/out/
+
+# Environment files
+.env
+.env*
+**/.env
+**/.env.local
+**/.env.development.local
+**/.env.test.local
+**/.env.production.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store
+Thumbs.db

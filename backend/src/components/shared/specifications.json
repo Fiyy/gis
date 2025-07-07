@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_shared_specifications",
+  "info": {
+    "displayName": "Specifications"
+  },
+  "options": {},
+  "attributes": {
+    "SEO": {
+      "type": "component",
+      "component": "shared.seo",
+      "repeatable": false
+    },
+    "Label": {
+      "type": "string"
+    },
+    "Value": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
